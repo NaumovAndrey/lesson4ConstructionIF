@@ -17,7 +17,7 @@ int main()
 {
     setlocale(LC_ALL, "Rus");
 
-    cout << "Домашняя работа к третьей лекции. Кострукция 'if else'" << endl;
+    cout << "Домашняя работа к четвёртой лекции. Кострукция 'if else'" << endl;
     
 
     while (true)
